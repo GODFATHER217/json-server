@@ -1,12 +1,12 @@
 {
-    "Students": {
+    "Students": [
         {
             "id": 1,
-            "FirstName":     "Jernie Lorenzo",
-            "MiddleName":    "Valmores",
-            "LastName":      "Ilao",
-            "Suffix":        "",
+            "FirstName": "Jernie Lorenzo",
+            "MiddleName": "Valmores",
+            "LastName": "Ilao",
+            "Suffix": "",
             "StudentNumber": "2018198791"
         }
-    }
+    ]
 }
