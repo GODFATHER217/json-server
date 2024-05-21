@@ -8,6 +8,9 @@
     },
 "keywords": [],
 "author": "",
-"license" "ISC",
-
+"license": "ISC",
+"Dependencies": {
+    "cors":"^2.8.5",
+    "json-server": "^0.17.4"
+}
 }
